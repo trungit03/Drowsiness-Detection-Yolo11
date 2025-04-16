@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+pygame
+collections
+torch
+time
+datetime
+numpy
